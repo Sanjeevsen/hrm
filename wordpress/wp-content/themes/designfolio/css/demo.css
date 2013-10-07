@@ -1,0 +1,25 @@
+@import url('reset.css');
+
+/* General Demo Style */
+
+.clr{
+	clear: both;
+}
+
+.reference{
+	padding-top: 40px;
+}
+
+/* Header Style */
+
+@media screen and (max-width: 860px) {
+	.header a{
+		display: block;
+		text-align: center;
+		font-size: 10px;
+		text-shadow: none;
+	}
+	.header span.right{
+		float: none;
+	}
+}

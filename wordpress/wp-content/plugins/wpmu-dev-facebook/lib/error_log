@@ -1,0 +1,4 @@
+[23-Aug-2013 21:10:20 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ',' in /home/lpeduca/public_html/wp-content/plugins/wpmu-dev-facebook/lib/newlogin.php on line 10
+[24-Aug-2013 11:32:58 America/Sao_Paulo] PHP Fatal error:  Call to undefined function site_url() in /home/lpeduca/public_html/wp-content/plugins/wpmu-dev-facebook/lib/newlogin.php on line 38
+[24-Aug-2013 11:58:10 America/Sao_Paulo] PHP Fatal error:  Call to undefined function site_url() in /home/lpeduca/public_html/wp-content/plugins/wpmu-dev-facebook/lib/newlogin.php on line 38
+[24-Aug-2013 11:59:26 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected T_STRING in /home/lpeduca/public_html/wp-content/plugins/wpmu-dev-facebook/lib/newlogin.php on line 38
